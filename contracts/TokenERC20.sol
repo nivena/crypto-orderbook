@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0
 /*-----------------------------------------------------------
  @Filename:         TokenERC20.sol
- @Copyright Author: Yogesh K
+ @Copyright Author: Niven A
  @Date:             11/11/2022
 -------------------------------------------------------------*/
 pragma solidity ^0.8.12;
